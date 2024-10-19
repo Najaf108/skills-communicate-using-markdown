@@ -3,7 +3,7 @@
 ###### hello how are you
 
 
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 Add content to index.md file
